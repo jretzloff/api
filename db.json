@@ -1,3 +1,40 @@
 {
-  "users": [{ "id": 1, "firstName": "test", "lastName": "User" }]
+  "users": [{ "id": 1, "firstName": "test", "lastName": "User" }],
+  "listings": [
+    {
+      "id": 1,
+      "title": "Chair",
+      "price": 59,
+      "categoryId": 1,
+      "description": "Fabulous new chair!",
+      "images": ["chair.jpg"]
+    },
+    {
+      "id": 2,
+      "title": "Couch",
+      "price": 59,
+      "categoryId": 1,
+      "description": "Fabulous new couch!",
+      "images": ["couch.jpg"]
+    },
+    {
+      "id": 3,
+      "title": "Jacket",
+      "price": 59,
+      "categoryId": 1,
+      "description": "Fabulous new jacket!",
+      "images": ["jacket.jpg"]
+    }
+  ],
+  "categories": [
+    { "id": 1, "title": "Furniture" },
+    {
+      "id": 2,
+      "title": "Clothing"
+    },
+    {
+      "id": 3,
+      "title": "Other"
+    }
+  ]
 }
