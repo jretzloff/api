@@ -76,12 +76,6 @@
       "description": "Test Task 5",
       "deadline": "",
       "isComplete": false
-    },
-    {
-      "title": "Test 6",
-      "description": "Test Task 6",
-      "deadline": "",
-      "isComplete": false
     }
   ]
 }
