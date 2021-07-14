@@ -36,5 +36,43 @@
       "id": 3,
       "title": "Other"
     }
-  ]
+  ],
+  "tasks":[
+    {
+      title: "Test 1",
+      description: "Test Task 1",
+      deadline: "",
+      isComplete: true,
+    },
+    {
+      title: "Test 2",
+      description: "Test Task 2",
+      deadline: "7/1/2021",
+      isComplete: false,
+    },
+    {
+      title: "Test 3",
+      description: "Test Task 3",
+      deadline: "",
+      isComplete: false,
+    },
+    {
+      title: "Test 4",
+      description: "Test Task 4",
+      deadline: "",
+      isComplete: true,
+    },
+    {
+      title: "Test 5",
+      description: "Test Task 5",
+      deadline: "",
+      isComplete: false,
+    },
+    {
+      title: "Test 6",
+      description: "Test Task 6",
+      deadline: "",
+      isComplete: false,
+    },
+  ];
 }
